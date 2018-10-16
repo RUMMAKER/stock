@@ -1,0 +1,2 @@
+# stock
+money generator
